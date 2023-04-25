@@ -5,7 +5,8 @@
     "Tags": ["multiple cursors"],
     "Versions": [
       {
-        "Version": "1.0.0"
+        "Version": "1.0.0",
+        "Url": "https://github.com/80-p/micro-spawner"
       }
     ]
   }
