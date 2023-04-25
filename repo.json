@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "spawner",
+    "Description": "Plugin to improve behavior of new cursor spawning.",
+    "Tags": ["multiple cursors"],
+    "Versions": [
+      {
+        "Version": "1.0.0"
+      }
+    ]
+  }
+]
